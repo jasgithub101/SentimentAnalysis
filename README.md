@@ -1,5 +1,3 @@
-# SentimentAnalysis
-
 # Twitter Sentiment Analysis
 
 ## 📌 Project Overview
